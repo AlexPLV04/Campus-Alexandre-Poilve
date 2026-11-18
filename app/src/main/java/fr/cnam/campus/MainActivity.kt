@@ -164,6 +164,7 @@ fun EventListScreen(events: List<Event>) {
     }
 }
 
+//test
 @Composable
 fun EventDetailScreen(event: Event) {
     Column(
